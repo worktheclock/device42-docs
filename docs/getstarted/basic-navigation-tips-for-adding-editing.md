@@ -4,7 +4,7 @@ sidebar_position: 9
 ---
 
 ## The add/edit/history button(s) & action menu
-
+.
 On most pages in the Device42 UI that include "lists" (e.g. of Devices, IP addresses, subnets, racks, etc.), look to the upper-right hand corner \[emphasized/highlighted\] for buttons that allow you to quickly perform the most common action(s) on each particular page:
 
 ![Action Menu and Buttons Locations](/assets/images/action_menu_buttons-HL.png)
